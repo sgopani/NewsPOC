@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_image">Image</string>
+    <string name="News_headline">News Healine</string>
+    <string name="news_description">News  Description</string>
+    <string name="news_info_image">News Info Image</string>
+    <string name="news_article_url">News_article_url</string>
+    <string name="read_more">Read more</string>
+    <string name="status_image">Status_Image</string>
+    <string name="news_favorites_action">News favorite</string>
+    <string name="favorite_menu">Favorite Menu</string>
+    <string name="news_favorite_list_image">News Fav list image</string>
+    <string name="news_favorite_image">news_favorite_image</string>
+    <string name="Favorite_description">news_Favorite _descriptiom</string>
+    <string name="news_favorite_title">News Favorite Title</string>
+    <string name="fav_image">Fav Image</string>
+    <string name="clear_all">Clear all</string>
+    <string name="retry_button">Retry</string>
+    <string name="home_navigation">Home</string>
+    <string name="search_dashboard">Search</string>
+    <string name="favorite_dashboard">Favorite</string>
+    <string name="Login">Login</string>
+    <string name="search_check">Searched news not available</string>
+    <string name="search_view">Search Here</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_Out">Sign Out</string>
+    <string name="facebook_app_id">407118820327474</string>
+    <string name="fb_login_protocol_scheme">fb407118820327474</string>
+    <string name="title_activity_facebook_login">facebookLoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Skip">"Skip "</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="name">Name</string>
+    <string name="email_id">No Email id available</string>
+    <string name="User_uid">UID</string>
+    <string name="email_id_text">Email Id</string>
+    <string name="login_page_image">Login_page_image</string>
+    <string name="login_textview">Login</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+
+</resources>
